@@ -1,4 +1,4 @@
-# Travel Guide App 🏞️  
+# Travel Places App 🏞️  
 
 An Android application that showcases different travel destinations with navigation controls to browse through images.
 
