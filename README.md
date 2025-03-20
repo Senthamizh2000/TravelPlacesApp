@@ -1,17 +1,14 @@
-# Travel Guide App
+# Travel Guide App 🏞️  
 
-## Overview
-The **Travel Guide App** is an Android application that showcases beautiful travel destinations with images and descriptions. Users can navigate through different places using next and previous buttons.
+An Android application that showcases different travel destinations with navigation controls to browse through images.
 
-## Features
-- Displays a collection of travel destinations with images
-- Allows navigation between images
-- Loops back to the first image after the last one and vice versa
+## Features ✨  
+- Displays travel destinations with images  
+- Allows navigation using **Next** and **Previous** buttons  
+- Loops through images (last → first, first → last)  
+- User-friendly UI with ConstraintLayout  
 
-## Technologies Used
-- **Language:** Kotlin
-- **Framework:** Android SDK
-- **UI Components:** ConstraintLayout, ImageView, TextView, LinearLayout
-
-
-
+## Tech Stack 🛠  
+- **Language:** Kotlin  
+- **UI Design:** XML (ConstraintLayout, LinearLayout)  
+- **Version Control:** Git & GitHub 
